@@ -1,5 +1,5 @@
 - Hi, I’m @noahbadner
-- I’m interested in economics, finance, technology, and the junction of these subjects.
+- I’m interested in economics, finance, technology, and how these subjects collide as businesses continue to modernize every day.
 - I’m currently teaching myself web development and back-end web server administration.
 
 <!---
