@@ -1,6 +1,5 @@
 - Hi, I’m @noahbadner
-- I’m interested in economics, finance, technology, programming, and how these subjects interact as businesses continue to modernize every day.
-- I’m currently teaching myself systems administration and back-end server administration.
+- I’m interested in economics, finance, technology and programming.
 
 <!---
 noahbadner/noahbadner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
